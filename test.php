@@ -1,0 +1,3 @@
+<?
+echo 'happy go lucky';
+?>
